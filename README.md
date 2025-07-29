@@ -1,2 +1,2 @@
 let me make this quick real quick this program needs python to run 
-and this program spamms words that you like
+and this program spams words that you like (if you're bored and want to slowly overclock your cpu)
