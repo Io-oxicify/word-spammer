@@ -1,1 +1,1 @@
-this program spams words. thats all it does
+this program spams words. thats all it does, if your PC crashed because of this, I don't care, YA DID IT YOURSELF. 2.0+ works both python 2 and 3
